@@ -1,6 +1,5 @@
-package aparelho;
+package aparelho.aparelhotelefonico;
 
-import aparelho.aparelhotelefonico.TelefoneInterface;
 import aparelho.navegadorinternet.NavegadorInterface;
 import aparelho.reprodutormusical.ReproducaoInterface;
 

@@ -6,6 +6,6 @@ public class ContaTerminal {
         Conta cp = new ContaPoupanca();
 
         cp.transferir(50, cp);
-        
+        System.out.println();
     }
 }

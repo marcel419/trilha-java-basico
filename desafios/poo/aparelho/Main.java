@@ -1,5 +1,7 @@
 package aparelho;
 
+import aparelho.aparelhotelefonico.AparelhoMultiuso;
+
 /**
  * Classe para testar as saídas.
  */
